@@ -1,0 +1,40 @@
+/* 
+.navigation {
+    display:flex;
+    justify-content:flex-end;
+    align-items: flex-end;
+    margin:10px;
+} */
+.heading {
+    text-decoration: underline;
+}
+
+.start {
+    margin-right:10px;
+}
+
+label {
+    margin: 15px;
+}
+
+.createButton{
+    margin:10px;
+    
+}
+
+.create-event {
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.end {
+    display:flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.center {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
